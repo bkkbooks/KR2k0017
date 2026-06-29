@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0017/WYG/v1/juan/8
+seq: 8
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0017_WYG_008-1a, image: WYG0486/WYG0486-0628a.png}
+body:
+  text: 赤城志巻八宋陳耆卿撰秩官門一自罷侯置守更累世之承襲而為三年之遷易事大異矣然得其人則治否則亂亦無以異也台自漢置回浦厥后或郡或縣廢置不等長民之吏雖零落千載而其磊磊落落以治行著聞者光芒注射亦曷嘗有古今哉按曽守㑹剏壁記起唐武徳趙逵前此弗著而后此亦多遺誤乃隨本年序次而博採傳記補其逸者五十有三人其歳月異同則各附見於其末蓋郡之司命在守當詳實不可遺也事難備載摘其要以列于下方云歴代郡守赤城志巻八
+  hash: sha256:f5ad1ee1eafe87e8c7ae9d75335ba2a842bc1a46d3dfa5865b778df253844291
+metadata:
+  title: 赤城志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:39:18.902918'
+  juan_title: 卷八
+  source:
+    repository: kanripo
+    path: KR2k0017/KR2k0017_008.txt
+hash: sha256:1d01ac5de88543a764e63373fe4259d2101ec51060bc9b99dd05dc4b2556434a

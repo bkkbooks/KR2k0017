@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0017/krp/v1/juan/14
+seq: 14
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0017_WYG_014-1a, image: WYG0486/WYG0486-0702a.png}
+body:
+  text: 赤城志巻十四宋陳耆卿撰版籍門二寺觀田地山赤城志巻十四
+  hash: sha256:cda3a0fecf7703bbdf45afb74022f55a19f10a04de55a033f4954cce9d56f865
+metadata:
+  title: 赤城志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:18.902918'
+  juan_title: 卷十四
+  source:
+    repository: kanripo
+    path: KR2k0017/KR2k0017_014.txt
+hash: sha256:9bf007ebf42b4ca3b5f8c1825370d5bf2608b8b53af5419930f8f37fa692339a

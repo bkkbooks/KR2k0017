@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0017/krp/v1/juan/15
+seq: 15
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0017_WYG_015-1a, image: WYG0486/WYG0486-0722a.png}
+body:
+  text: 赤城志巻十五宋陳耆卿撰版籍門四户口古者獻民數於王王拜受之重邦本也譬如草木風霆雨露之滋長豈不日蕃月盛也哉按地志諸書晉不滿二萬户至唐武德始及八萬三千八百六十自是至乾寧末又蹙耗矣蓋遭世亂離且刳於兵其變故可勝道哉宋興天下平積而至熙豐間戸口寖衍咸可考見而余不復著獨斷自大觀之已丑迄於嘉定之壬午昔之為戸者二十四萬三千而今則二十六萬六千矣昔之為口者四十八萬九千而今則五十四萬八千矣僧道離於民者也畧附見之亦以驗其消長云戸口赤城志巻十五
+  hash: sha256:f19f5e594793ed646cb08c3cf70f923e5afcd735d071e69bce7f1b10d634a675
+metadata:
+  title: 赤城志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:18.902918'
+  juan_title: 卷十五
+  source:
+    repository: kanripo
+    path: KR2k0017/KR2k0017_015.txt
+hash: sha256:b95fa6f4565660426454feb16dfb343e75a4ac91cb1941cd0e0010a44175f1c6

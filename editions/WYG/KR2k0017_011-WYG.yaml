@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0017/WYG/v1/juan/11
+seq: 11
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0017_WYG_011-1a, image: WYG0486/WYG0486-0676a.png}
+body:
+  text: 赤城志巻十一宋陳耆卿撰秩官門四余於縣廨巳畧述令之義今考五縣姓氏自雍熙迄今二百四十年間總三百八十有九人其卓有治行去爲民思與夫貪殘罷軟留為民患者不知其多寡何如也河陽鄴岸何地無之顧一伸眉彈指間休戚立變余讀唐古之竒八如之語輙三歎焉繼是者何寥寥邪茲故彚為一編且略附其行事將使後之為政者知警知慕相率為卓魯之歸至若前代姓氏其散在史諜者今得十有七人餘弗著縣令臨海黄巖天台僊居寧海赤城志巻十一
+  hash: sha256:f05e9d8a9ffad6a528e1d31be37f886e9fb72442c9ad90941e39b4f39128d0db
+metadata:
+  title: 赤城志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:39:18.902918'
+  juan_title: 卷十一
+  source:
+    repository: kanripo
+    path: KR2k0017/KR2k0017_011.txt
+hash: sha256:1603cc81c5c9c284bcdbd2d297988e0b6cd57ef9b1ea25581a5377907bf26b83

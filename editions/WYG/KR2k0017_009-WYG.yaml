@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0017/WYG/v1/juan/9
+seq: 9
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0017_WYG_009-1a, image: WYG0486/WYG0486-0646a.png}
+body:
+  text: 赤城志巻九宋陳耆卿撰秩官門二余既序前代姓氏次及本朝按太平興國三年吳越歸版圖自錢昱以前九人皆吳越所置自是而後皆命于王朝而選遴寄專守得展布以乳赤子視昔有光矣如畢公士元章公得象元公絳趙公汝愚輔相事業發軔此州其風績最著自近世至今日每以文伯或吏師主之多循良少威刻有興作無仆壞民得婆娑起卧以養生送死而孰知上之德與侯之力哉盖總其姓氏得一百五十有七人其日月則加詳焉逺難考近易覈也赤城志巻九
+  hash: sha256:07d0d0cc93212e76a8b86a4ce7b6c1f23306bb11ecfb6ef606ee71ca56c3a7f2
+metadata:
+  title: 赤城志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:39:18.902918'
+  juan_title: 卷九
+  source:
+    repository: kanripo
+    path: KR2k0017/KR2k0017_009.txt
+hash: sha256:5de1a163812bf9ed6942a426fd018f5d701e87b31bc812d7d2ba783c47cf4b55
