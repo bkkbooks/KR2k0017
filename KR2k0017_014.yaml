@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0017_WYG_014-1a, image: WYG0486/WYG0486-0702a.png}
 body:
-  text: 赤城志巻十四宋陳耆卿撰版籍門二寺觀田地山赤城志巻十四
-  hash: sha256:cda3a0fecf7703bbdf45afb74022f55a19f10a04de55a033f4954cce9d56f865
+  text: 赤城志卷十四宋陳耆卿撰版籍門二寺觀田地山赤城志卷十四
+  hash: sha256:2d2ae6a8e158cf0f8f988309ef9b31daf924f22a38ccbf078aa0ce9ecc3cbde6
 metadata:
   title: 赤城志
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0017/KR2k0017_014.txt
-hash: sha256:9bf007ebf42b4ca3b5f8c1825370d5bf2608b8b53af5419930f8f37fa692339a
+hash: sha256:1b54ba77eb1763f1c16cc3c18f244adcd43dc9ceea5a135d05558667a27a5a2b
